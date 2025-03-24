@@ -9,3 +9,4 @@ test.py
 
 # Python
 __pycache__/
+*.py[cod]
