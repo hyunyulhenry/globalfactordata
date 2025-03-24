@@ -1,0 +1,4 @@
+include README.md
+include globalfactordata/data/*.pkl
+include globalfactordata/data/*.xlsx
+include globalfactordata/data/*.csv
