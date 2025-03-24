@@ -1,2 +1,11 @@
+# Build
 *.egg-info/
+dist/
+build/
+*.zip
+
+# Test
 test.py
+
+# Python
+__pycache__/
