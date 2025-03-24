@@ -4,9 +4,6 @@ dist/
 build/
 *.zip
 
-# Test
-test.py
-
 # Python
 __pycache__/
 *.py[cod]
